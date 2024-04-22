@@ -1,7 +1,9 @@
 # FOODCONNECT
 # SIGN UP PAGE
 
-![image](https://github.com/shaikhz-uc/FOODCONNECT/assets/156159919/4bf239d0-ba41-42b0-a3ab-518f61dd36fa)
+
+![image](https://github.com/shaikhz-uc/FOODCONNECT/assets/156159919/1213cb53-74d5-496f-8cfa-ce88edfeb096)
+
 
 # LOGIN PAGE
 
